@@ -36,7 +36,7 @@ Bu proje Redux Toolkit kullanarak basit bir CRUD (Create, Read, Update, Delete) 
 </ul>
 
 
-</ul>
+
 
 
 <h2> Projenin Yapısı </h2>
