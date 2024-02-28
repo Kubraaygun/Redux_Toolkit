@@ -15,7 +15,7 @@ Bu proje Redux Toolkit kullanarak basit bir CRUD (Create, Read, Update, Delete) 
 <li>Redux Toolkit, Redux'in karmaşıklığını azaltarak daha hızlı ve verimli bir şekilde durum yönetimi sağlar.</li>
 </ul>
 </li>
-
+<br>
 
 
 <li> Teknoloji Staklarının Uygulanmasını Gösterme:
@@ -25,7 +25,7 @@ Bu proje Redux Toolkit kullanarak basit bir CRUD (Create, Read, Update, Delete) 
 <li> Ayrıca, bu teknolojilerin bir arada nasıl çalışacağına dair bir model sunarak, geliştiricilere yol göstermeyi amaçlamaktadır.</li>
 </ul>
 </li>
-
+<br>
 
 <li>Yenilikçi Fikirlerin Denenmesi ve Uygulanması:
 <ul>
