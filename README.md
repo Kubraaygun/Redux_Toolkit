@@ -26,7 +26,7 @@ Bu proje Redux Toolkit kullanarak basit bir CRUD (Create, Read, Update, Delete) 
 </ul>
 </li>
 
-<ul>
+
 <li>Yenilikçi Fikirlerin Denenmesi ve Uygulanması:
 <ul>
 <li>Proje, sadece temel CRUD ve sayaç işlevselliğini içermekle kalmaz, aynı zamanda yenilikçi fikirlerin de denenmesine olanak tanır. Örneğin, temayı değiştirme özelliği gibi ek işlevselliğin nasıl eklenip yönetileceğini gösterir. Böylece, geliştiricilerin sınırları zorlamasına ve yeni fikirleri denemelerine olanak sağlar.</li>
@@ -34,7 +34,7 @@ Bu proje Redux Toolkit kullanarak basit bir CRUD (Create, Read, Update, Delete) 
 </ul>
 </li>
 </ul>
-
+</ul>
 
 
 
