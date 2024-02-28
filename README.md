@@ -1,7 +1,6 @@
 <h1>Redux Toolkit </h1>
 
-Bu proje Redux Toolkit kullanarak basit bir CRUD (Create, Read, Update, Delete) uygulaması ile bir sayaç uygulamasını içerir. CRUD uygulaması görevleri yönetmeyi sağlarken, sayaç uygulaması ise basit artırma ve azaltma işlemlerini gerçekleştirir. 
-
+Bu proje Redux Toolkit kullanarak basit bir CRUD (Create, Read, Update, Delete) uygulaması ile bir sayaç uygulamasını içerir. CRUD uygulaması görevleri yönetmeyi sağlarken, sayaç uygulaması ise basit artırma ve azaltma işlemlerini gerçekleştirir.
 
 <h2> Proje Amacı </h2>
 
@@ -14,7 +13,7 @@ Bu proje Redux Toolkit kullanarak basit bir CRUD (Create, Read, Update, Delete) 
 
 </ul>
 </li>
-</ul>
+
 
 <ul>
 <li> Teknoloji Staklarının Uygulanmasını Gösterme:
@@ -26,7 +25,6 @@ Bu proje Redux Toolkit kullanarak basit bir CRUD (Create, Read, Update, Delete) 
 </ul>
 </li>
 
-
 <li>Yenilikçi Fikirlerin Denenmesi ve Uygulanması:
 <ul>
 <li>Proje, sadece temel CRUD ve sayaç işlevselliğini içermekle kalmaz, aynı zamanda yenilikçi fikirlerin de denenmesine olanak tanır. Örneğin, temayı değiştirme özelliği gibi ek işlevselliğin nasıl eklenip yönetileceğini gösterir. Böylece, geliştiricilerin sınırları zorlamasına ve yeni fikirleri denemelerine olanak sağlar.</li>
@@ -35,9 +33,6 @@ Bu proje Redux Toolkit kullanarak basit bir CRUD (Create, Read, Update, Delete) 
 </li>
 </ul>
 </ul>
-
-
-
 
 <h2> Projenin Yapısı </h2>
 <ul>
@@ -49,7 +44,6 @@ Bu proje Redux Toolkit kullanarak basit bir CRUD (Create, Read, Update, Delete) 
 <li><b>React Router: </b>Sayfa yönlendirmeleri için React Router kullanılmıştır.</li>
 </ul>
 
-
 <h2> Kullanılan Teknolojiler </h2>
 
 <ul>
@@ -60,7 +54,6 @@ Bu proje Redux Toolkit kullanarak basit bir CRUD (Create, Read, Update, Delete) 
 <li>Vite (Modern JavaScript aracı ve sunucusu)</li>
 <li>UUID (Benzersiz kimlik oluşturma kütüphanesi)</li>
 </ul>
-
 
 <h2>Ekran Görüntüsü</h2>
 
