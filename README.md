@@ -10,7 +10,7 @@ Bu proje Redux Toolkit kullanarak basit bir CRUD (Create, Read, Update, Delete) 
 
 
 
-<li> Yaratıcı ve Eğitici Bir Deneyim Sunmakkk:
+<li> Yaratıcı ve Eğitici Bir Deneyim Sunma:
 <ul>
 <li>Redux Toolkit, Redux'in karmaşıklığını azaltarak daha hızlı ve verimli bir şekilde durum yönetimi sağlar.</li>
 </ul>
